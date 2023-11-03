@@ -9,7 +9,7 @@ Welcome page
 Informtion about my skills and hobbies.
 
 ## Resume
-PErsonal informatione
+Personal informatione
 
 ## Works
 An assignment from Web Interface Development course
